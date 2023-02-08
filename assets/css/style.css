@@ -1,0 +1,13 @@
+h3 {
+  color: white;
+  text-shadow: 0 0 15px black;
+}
+
+.header-logo__title {
+  color: rgb(221, 158, 33) !important;
+}
+
+.carousel-caption {
+  background-color: rgba(150, 150, 153, 0.549);
+  border-radius: 5px;
+}
